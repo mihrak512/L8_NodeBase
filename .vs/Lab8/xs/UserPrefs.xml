@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{973D310C-5004-40D6-99A9-603ACC4AA8B1}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lab8 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab8/Program.cs">
+    <Files>
+      <File FileName="Lab8/Program.cs" Line="150" Column="14" />
+      <File FileName="Lab8/TovarManager.cs" />
+      <File FileName="Lab8/Item.cs" />
+      <File FileName="Lab8/Toy.cs" />
+      <File FileName="Lab8/Tovar.cs" />
+      <File FileName="Lab8/Electronic.cs" />
+      <File FileName="Lab8/Book.cs" />
+      <File FileName="Lab8/Transport.cs" />
+      <File FileName="Lab8/TovarList.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab8" expanded="True">
+            <Node name="Lab8" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>

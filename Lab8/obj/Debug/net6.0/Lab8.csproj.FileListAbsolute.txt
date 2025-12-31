@@ -1,0 +1,15 @@
+/Users/miharak/Projects/Lab8/Lab8/obj/Debug/net6.0/Lab8.csproj.AssemblyReference.cache
+/Users/miharak/Projects/Lab8/Lab8/obj/Debug/net6.0/Lab8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miharak/Projects/Lab8/Lab8/obj/Debug/net6.0/Lab8.AssemblyInfoInputs.cache
+/Users/miharak/Projects/Lab8/Lab8/obj/Debug/net6.0/Lab8.AssemblyInfo.cs
+/Users/miharak/Projects/Lab8/Lab8/obj/Debug/net6.0/Lab8.csproj.CoreCompileInputs.cache
+/Users/miharak/Projects/Lab8/Lab8/bin/Debug/net6.0/Lab8
+/Users/miharak/Projects/Lab8/Lab8/bin/Debug/net6.0/Lab8.deps.json
+/Users/miharak/Projects/Lab8/Lab8/bin/Debug/net6.0/Lab8.runtimeconfig.json
+/Users/miharak/Projects/Lab8/Lab8/bin/Debug/net6.0/Lab8.dll
+/Users/miharak/Projects/Lab8/Lab8/bin/Debug/net6.0/Lab8.pdb
+/Users/miharak/Projects/Lab8/Lab8/obj/Debug/net6.0/Lab8.dll
+/Users/miharak/Projects/Lab8/Lab8/obj/Debug/net6.0/refint/Lab8.dll
+/Users/miharak/Projects/Lab8/Lab8/obj/Debug/net6.0/Lab8.pdb
+/Users/miharak/Projects/Lab8/Lab8/obj/Debug/net6.0/Lab8.genruntimeconfig.cache
+/Users/miharak/Projects/Lab8/Lab8/obj/Debug/net6.0/ref/Lab8.dll
